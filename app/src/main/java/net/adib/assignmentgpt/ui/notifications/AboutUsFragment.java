@@ -6,6 +6,9 @@ import androidx.fragment.app.FragmentActivity;
 import androidx.lifecycle.ViewModelProvider;
 
 import androidx.fragment.app.Fragment;
+
+import android.content.Intent;
+import android.net.Uri;
 import android.os.Bundle;
 import android.text.method.LinkMovementMethod;
 import android.view.LayoutInflater;
@@ -30,6 +33,11 @@ public class AboutUsFragment extends Fragment {
 
         binding = FragmentAboutBinding.inflate(inflater, container, false);
         View root = binding.getRoot();
+
+        root.findViewById(R.id.textViewLink).setOnClickListener(v->{
+            Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/adibOthman/CrashNews"));
+            startActivity(intent);
+        });
 
         return root;
     }

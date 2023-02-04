@@ -4,7 +4,7 @@
     <string name="title_dashboard">News</string>
     <string name="title_notifications">About Us</string>
     <string name="copyright">Copyright©</string>
-    <string name="About_text"><a href="github link">Source Code Link</a></string>
+    <string name="About_text"><a href="https://github.com/adibOthman/CrashNews">Source Code Link</a></string>
     <string name="developer1">NAME: MUHAMMAD ADIB RAHIMI BIN OTHMAN</string>
     <string name="devId1">STUDENT ID: 2020449804</string>
     <string name="group1">GROUP: RCS2405A</string>

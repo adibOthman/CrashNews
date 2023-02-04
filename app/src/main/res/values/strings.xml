@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Crash News</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">News</string>
+    <string name="title_notifications">About Us</string>
+    <string name="copyright">Copyright©</string>
+    <string name="About_text"><a href="github link">Source Code Link</a></string>
+    <string name="developer1">NAME: MUHAMMAD ADIB RAHIMI BIN OTHMAN</string>
+    <string name="devId1">STUDENT ID: 2020449804</string>
+    <string name="group1">GROUP: RCS2405A</string>
+    <string name="Pcode">PROGRAMME CODE: CS240</string>
+    <string name="stline">__________________________________________________________</string>
+    <string name="dev2">NAME: IZATUL NABILAH BINTI MOHD NASIRRUDIN</string>
+    <string name="devId2">STUDENT ID: 2020456092</string>
+    <string name="stline2">_________________________________________________________</string>
+    <string name="dev3">NAME: \'ALIAH \'IZZATI BINTI ZAMRI</string>
+    <string name="devId3">STUDENT ID: 2020490096</string>
+    <string name="stline3">_________________________________________________________</string>
+    <string name="dev4">NAME: NURUL AKHMA LAILY BINTI KAMARUL HISHAM</string>
+    <string name="devId4">STUDENT ID: 2020813704</string>
+    <string name="group2">GROUP: RCS2405B</string>
+</resources>
